@@ -1,0 +1,4 @@
+﻿  Server.cpp
+d:\basic network programming\code\tcpserver\tcpserver\server.cpp(8): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\basic network programming\code\tcpserver\tcpserver\server.cpp(79): warning C4018: '<': signed/unsigned mismatch
+  TCPServer.vcxproj -> D:\Basic Network Programming\Code\TCPServer\Debug\TCPServer.exe
